@@ -1,0 +1,19 @@
+
+#box{
+    position: relative;
+    float: left;
+    left: 35%;
+    top: 200px;
+}
+
+#input{
+    font-size: 30px;
+    border-width: 2 px;
+}
+
+input[type=submit] {
+    background: blueviolet;
+    padding: 3px 10px;
+    color: white;
+    font-size: 30px;
+}
